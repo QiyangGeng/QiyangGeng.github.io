@@ -10,15 +10,15 @@ export const themeOptions: ThemeOptions = {
     palette: {
         type: 'light',
         primary: {
-            main: '#858fc1',
+            main: '#61A5B3',
             light: '#aab0d2',
             dark: '#6074bb',
         },
         secondary: {
-            main: '#f50057',
+            main: '#F1D4F1',
         },
         background: {
-            default: '#fdffff',
+            default: '#EEEDEB',
         },
     },
 };
