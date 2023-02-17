@@ -24,7 +24,7 @@ export default function HomeButton() {
                 onMouseEnter={() => setHover(true)}
                 onMouseLeave={() => setHover(false)}
             >
-                { hover ? "My Worldly Stuff" : "MWS" }
+                { hover ? "Expanded!" : "E..." }
             </Typography>
         </Tooltip>
     )
