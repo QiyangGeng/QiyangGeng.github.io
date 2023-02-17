@@ -48,7 +48,6 @@ function App() {
                         pt: 3,
                     }}>
                         <Routes>
-                            {/*<Route path={"*"} element={<Navigate to={<NotFound/>}/>}/>*/}
                             {routes.map((route) => (
                                 <Route path={route.path} element={route.component} key={route.path}/>
                             ))}
