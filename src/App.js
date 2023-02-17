@@ -28,7 +28,7 @@ function App() {
                     minHeight: "100vh",
                 }}
             >
-                <BrowserRouter>
+                <BrowserRouter basename={process.env.PUBLIC_URL}>
                     <Header/>
                     <BreadcrumbsRouter/>
                     <Divider
