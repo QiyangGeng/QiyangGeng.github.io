@@ -1,7 +1,7 @@
 {
   "name": "pencils",
   "version": "0.1.0",
-  "homepage": "https://github.com/QiyangGeng/QiyangGeng.github.io/blob/main/README.md",
+  "homepage": "https://github.com/QiyangGeng/QiyangGeng.github.io/blob/main/public/index.html",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
