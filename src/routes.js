@@ -40,6 +40,11 @@ const routes = [
         name: "Scavenge",
         component: <Test/>,
     },
+    {
+        path: "/Stationary/Catalogue",
+        name: "Scavenge",
+        component: <Test/>,
+    },
 ];
 
 export default routes;
